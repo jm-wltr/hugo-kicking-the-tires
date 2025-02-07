@@ -4,4 +4,4 @@ On this site, you'll find
 
 * [My biography](/about/)
 * My projects
-* My résumé
+* [My résumé](/resume/)
